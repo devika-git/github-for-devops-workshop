@@ -1,0 +1,15 @@
+sudo apt-get install git
+      git --version
+      mkdir github-for-devops-workshop
+     cd github-for-devops-workshop/
+     ls
+     git init
+     ls -a
+     git status
+     vim abc.java
+     git status
+     git add abc.java
+     git status
+     git commit -m "add the file abc.java"
+     git status
+     history
