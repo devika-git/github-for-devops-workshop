@@ -13,3 +13,12 @@ sudo apt-get install git
      git commit -m "add the file abc.java"
      git status
      history
+git clone https://github.com/devika-git/terraform-for-devops.git
+   39  ls
+   40  cd terraform-for-devops/
+   41  ls
+   42  cd 
+   43  ls 
+   44  cd github-for-devops-workshop/
+   45  vim git.command.txt 
+   46  history 
