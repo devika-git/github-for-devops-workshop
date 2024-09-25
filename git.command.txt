@@ -22,3 +22,5 @@ git clone https://github.com/devika-git/terraform-for-devops.git
    44  cd github-for-devops-workshop/
    45  vim git.command.txt 
    46  history 
+
+this is my new file for github
